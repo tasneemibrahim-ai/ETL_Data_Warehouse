@@ -279,10 +279,14 @@ The report covers:
 
 ---
 
+## Author
+
+Tasneem Ibrahim - Rana Sakr - Marc Ihab - Mortada Mohamed
+
+---
+
 <div align="center">
 
 **📚 AIE323 — Data Mining | Fall 2025 | Faculty of Computer Science & Engineering**
-
-Made with ❤️ by the ETL Data Warehouse Team
 
 </div>
